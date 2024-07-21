@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <channel id="UCeY0bbntWzzVIaj2z3QigXg">
+        <display-name>NBC</display-name>
+        <icon src="https://yt3.ggpht.com/GjDLYFGF4IQaUobUK-6q3nOsU4o8fRMl4XgVipPWRqdRVt61s2LqgnbBXu3-qYL4Ab2xsfVo=s176-c-k-c0x00ffffff-no-rj-mo"/>
+    </channel>
+    <programme start="20240720020251 +0000" stop="20240720030251 +0000" channel="UCeY0bbntWzzVIaj2z3QigXg">
+        <title>NBC Live Stream</title>
+        <desc>Live stream from NBC on YouTube</desc>
+    </programme>
+</tv>
