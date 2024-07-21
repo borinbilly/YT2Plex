@@ -73,7 +73,9 @@ Pull YouTube live streams into m3u playlist and xml guide for use with IPTV.  Co
 14. Setup cronjob to run main.py however often you want to check the channels for live streams
 
     You may also want to set a job to refresh the guide in plex as the lowest refresh interval plex offers is 1hr
+
       Example command to refresh Plex guide:
+
       curl "http://127.0.0.1:32400/livetv/dvrs/4/reloadGuide?X-Plex-Token=<insert-plex-token-here>" -X "POST"
 
 16. Add xteve to Plex in Live TV / DVR settings and scan
