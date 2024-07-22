@@ -6,7 +6,11 @@ Pull YouTube live streams into m3u playlist and xml guide for use with IPTV.  Co
 1. Install xteve
   Can be found in community applications
 
-2. Add scripts folder from YT2Plex to xsteve
+  ENABLE FFMPEG
+
+  Xteve -> Settings -> Streaming -> Stream Buffer: FFmpeg
+
+3. Add scripts folder from YT2Plex to xsteve
 
   On unraid the directory where to add /scripts should look something like:
     /mnt/user/appdata/xteve
