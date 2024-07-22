@@ -4,7 +4,8 @@ Pull YouTube live streams into m3u playlist and xml guide for use with IPTV.  Co
 # SETUP
 
 1. Install xteve
-  Can be found in community applications
+
+Can be found in community applications
 
   ENABLE FFMPEG
 
